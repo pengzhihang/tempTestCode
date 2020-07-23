@@ -19,6 +19,7 @@ encoding/testDB.py=utf-8
 encoding/testLiangHua.py=utf-8
 encoding/testMysql.py=utf-8
 encoding/testPool.py=utf-8
+encoding/testSelenium.py=utf-8
 encoding/testSocketIO.py=utf-8
 encoding/testSqlite.py=utf-8
 encoding/testTimeStamp.py=utf-8
