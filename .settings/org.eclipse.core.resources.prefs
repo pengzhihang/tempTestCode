@@ -15,7 +15,6 @@ encoding/test.py=utf-8
 encoding/testBaidu.py=utf-8
 encoding/testCitex.py=utf-8
 encoding/testClientNum.py=utf-8
-encoding/testCore.py=utf-8
 encoding/testDB.py=utf-8
 encoding/testLiangHua.py=utf-8
 encoding/testMysql.py=utf-8
